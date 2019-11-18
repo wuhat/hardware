@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name wuhat)(type KiCad)(uri ${KIPRJMOD}/wuhat.pretty)(options "")(descr ""))
+)

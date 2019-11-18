@@ -1,8 +1,8 @@
-(kicad_pcb (version 20171130) (host pcbnew 5.0.1+dfsg1-3~bpo9+1)
+(kicad_pcb (version 20171130) (host pcbnew "(5.1.4)-1")
 
   (general
     (thickness 1.6)
-    (drawings 43)
+    (drawings 44)
     (tracks 509)
     (zones 0)
     (modules 44)
@@ -13,12 +13,12 @@
   (title_block
     (title WUhat)
     (date 2018-12-03)
-    (rev 0.1)
+    (rev 7E4.0)
   )
 
   (layers
-    (0 F.Cu signal)
-    (31 B.Cu signal)
+    (0 F.Cu signal hide)
+    (31 B.Cu signal hide)
     (32 B.Adhes user hide)
     (33 F.Adhes user hide)
     (34 B.Paste user hide)
@@ -45,8 +45,6 @@
     (zone_clearance 0.2)
     (zone_45_only no)
     (trace_min 0.2)
-    (segment_width 0.15)
-    (edge_width 0.15)
     (via_size 0.8)
     (via_drill 0.4)
     (via_min_size 0.4)
@@ -56,6 +54,8 @@
     (uvias_allowed no)
     (uvia_min_size 0.2)
     (uvia_min_drill 0.1)
+    (edge_width 0.15)
+    (segment_width 0.15)
     (pcb_text_width 0.3)
     (pcb_text_size 1.5 1.5)
     (mod_edge_width 0.15)
@@ -67,7 +67,7 @@
     (solder_mask_min_width 0.25)
     (aux_axis_origin 134.1 99.23)
     (grid_origin 134.1 99.23)
-    (visible_elements FFFFFF7F)
+    (visible_elements 7FFFFFFF)
     (pcbplotparams
       (layerselection 0x010f0_ffffffff)
       (usegerberextensions false)
@@ -11945,6 +11945,9 @@
     (pad "" np_thru_hole circle (at 0 0) (size 6.2 6.2) (drill 2.75) (layers *.Cu *.Mask))
   )
 
+  (gr_text "rev.\n7E4.0" (at 137.91 114.47) (layer F.SilkS)
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
+  )
   (gr_text https://github.com/wuhat (at 135.878 103.1035) (layer B.SilkS) (tstamp 5C08AEE0)
     (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
   )

@@ -1,6 +1,6 @@
 # WUHAT
 
-A uHAT for the Raspberry PI zero (WH) inspired by the
+A HAT for the Raspberry PI inspired by the
 [franzboard](https://github.com/franzboard) and compatible in terms of switch
 and LED connections.
 
