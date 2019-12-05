@@ -1,13 +1,14 @@
+Num, Description, RS-Components.at Nr.
 1, Pin Header Female 2.54mm 2x20
 4, Pin Header Male 2.54mm 1x6
 2, Pin Header Male 2.54mm 1x4
 1, Pin Header Male 2.54mm 1x3
-5, 1k 0603
-2, 3k9 0603
-15, 4k7 0603
-1, 1uF 0603
-4, LED 0603
-3, Tactile Switches 6x6mm
-1, DS18S20 TO-92
-1, MCP3002 SOIC-8 3.9x4.9mm
-1, CAT24C256-D
+5, 1k 0603, 901-3594
+2, 3k9 0603, 180-9758
+15, 4k7 0603, 213-2367
+1, 1uF 0603, 172-1482
+4, LED 0603, 161-2192
+3, Tactile Switches 6x6mm, 135-9508
+1, DS18S20 TO-92, 540-2849
+1, MCP3002 SOIC-8 3.9x4.9mm, 669-6058
+1, CAT24C256 SOIC-8 3.9x4.9mm, 800-9812
