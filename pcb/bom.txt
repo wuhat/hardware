@@ -1,8 +1,8 @@
 Num, Description, RS-Components.at Nr.
-1, Pin Header Female 2.54mm 2x20
-4, Pin Header Male 2.54mm 1x6
-2, Pin Header Male 2.54mm 1x4
-1, Pin Header Male 2.54mm 1x3
+1, Pin Header Female 2.54mm 2x20, 674-2369
+4, Pin Header Male 2.54mm 1x6, 681-2994
+2, Pin Header Male 2.54mm 1x4, 681-2979
+1, Pin Header Male 2.54mm 1x3, 681-2975
 5, 1k 0603, 901-3594
 2, 3k9 0603, 180-9758
 15, 4k7 0603, 213-2367
