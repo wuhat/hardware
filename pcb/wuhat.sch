@@ -1,13 +1,12 @@
 EESchema Schematic File Version 4
-LIBS:wuhat-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "WUhat"
-Date "2018-12-03"
-Rev "7E4.0"
+Date "2020-07-10"
+Rev "7E4.1"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -119,7 +118,7 @@ U 1 1 5BEDF9B2
 P 10050 3850
 F 0 "DS1820" H 9820 3896 50  0000 R CNN
 F 1 "DS18S20" H 9820 3805 50  0000 R CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 9050 3600 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-92_Inline_Wide" H 9050 3600 50  0001 C CNN
 F 3 "http://datasheets.maximintegrated.com/en/ds/DS18S20.pdf" H 9900 4100 50  0001 C CNN
 	1    10050 3850
 	-1   0    0    -1  
